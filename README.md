@@ -1,6 +1,6 @@
 Hi there, i'm Nevaeh! 👋🏾
 
-🎓 Sophomore at Kennesaw State University, pursuing a B.S. in Information Technology
+🎓 Senior at Kennesaw State University, pursuing a B.S. in Information Technology
 🔬 ORISE Fellow @ FEMA Region 2 | 🧠 Former EEG Research Assistant | 💡 Break Through Tech AI Fellow
 
 I’m passionate about using data science and machine learning to tackle real-world challenges—especially in emergency management, cognitive analytics, and tech education. My background blends hands-on federal research, lab-based machine learning projects, and innovative teaching strategies. Whether it’s optimizing disaster response with GIS or analyzing EEG signals, I love turning data into actionable insight.
